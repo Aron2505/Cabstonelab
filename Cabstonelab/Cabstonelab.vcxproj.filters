@@ -21,6 +21,9 @@
     <ClInclude Include="CollegeList.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Donation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Donor.cpp">
@@ -32,9 +35,18 @@
     <ClCompile Include="CollegeList.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Donation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DonationList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="colleges.csv">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="donations.csv">
       <Filter>Resource Files</Filter>
     </None>
   </ItemGroup>

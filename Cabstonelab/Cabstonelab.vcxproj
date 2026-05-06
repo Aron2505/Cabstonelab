@@ -128,15 +128,19 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="CollegeList.h" />
+    <ClInclude Include="Donation.h" />
     <ClInclude Include="Donor.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CollegeList.cpp" />
+    <ClCompile Include="Donation.cpp" />
+    <ClCompile Include="DonationList.cpp" />
     <ClCompile Include="Donor.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="colleges.csv" />
+    <None Include="donations.csv" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Cabstonelab/Cabstonelab.vcxproj" />
+  <Project Path="Cabstonelab/Cabstonelab.vcxproj" Id="5a06289b-b133-42fd-9cca-59d7ee8328da" />
 </Solution>
